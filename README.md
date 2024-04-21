@@ -8,7 +8,7 @@
 - 📫 How to reach me *abhishekarora5437@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
-<div>
+<div class="flex">
 <p align="left">
 <h5 align="left">Twitter / X</h5>
 <a href="https://twitter.com/abhishe91243594?t=y-fuy56svgv1tgpysw_xvw&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishe91243594?t=y-fuy56svgv1tgpysw_xvw&s=08" height="30" width="40" /></a>
